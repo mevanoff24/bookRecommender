@@ -1,5 +1,9 @@
-# bookRecommender (In Progress)
-Book Recommender System (Still In Progress)
+# bookRecommender 
+Book Recommender System
+
+Recommendation Systems have been around with many years now. Nowadays, recommender systems are one of the most successful and widespread application of machine learning technologies in business and have a substaincial impact on customer experience, building creadibiity with customers and have made businesses a lot of money along the way. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. There are also recommender systems for experts, collaborators, jokes, restaurants, garments, financial services, life insurance, romantic partners (online dating), and Twitter pages [1](https://en.wikipedia.org/wiki/Recommender_system). Here in this notebook we focus on one of the cornerstone of recommendation systems, a Book Recommendation System.
+
+Please see [Final.ipynb](https://github.com/mevanoff24/bookRecommender/blob/master/Final.ipynb) for the full analysis. 
 
 
 ## DataSet 
